@@ -1,0 +1,8 @@
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\bin\Debug\ConsoleBlack_jack.exe.config
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\bin\Debug\ConsoleBlack_jack.exe
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\bin\Debug\ConsoleBlack_jack.pdb
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\obj\Debug\ConsoleBlack_jack.csproj.AssemblyReference.cache
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\obj\Debug\ConsoleBlack_jack.csproj.SuggestedBindingRedirects.cache
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\obj\Debug\ConsoleBlack_jack.csproj.CoreCompileInputs.cache
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\obj\Debug\ConsoleBlack_jack.exe
+D:\work\workspace -softeam\D E V\Black -Jack\ConsoleBlack_jack\ConsoleBlack_jack\obj\Debug\ConsoleBlack_jack.pdb
